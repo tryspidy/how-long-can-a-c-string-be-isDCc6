@@ -1,0 +1,1 @@
+// A C++ string can have up to 4294967295 characters
